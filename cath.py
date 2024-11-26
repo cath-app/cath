@@ -19,14 +19,10 @@ st.write("""
 
 st.header("Educational Attainment")
 st.write("""  
-st.subheader("Elementary School")
-st.write("""  
-    - **School Name**: [Surigao West Central Elementary School]
-    - **Duration**: [2013] - [2018] 
-st.subheader("High School")
-st.write("""
-    - **School Name**: [Surigao City National High School]
-    - **Duration**: [2013] - [2018]
+- **School Name**: [Surigao West Central Elementary School]
+- **Duration**: [2013] – [2018]
+- **School Name**: [Surigao City National High School]
+- **Duration**: [2018] – [2024]
          
 st.header("My Interests")
 st.write("""
