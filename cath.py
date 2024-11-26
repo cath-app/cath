@@ -16,6 +16,14 @@ st.write("""
     - **Gender**: [Female]
     - **Location**: [Surigao City, Philippines]
     - **Nationality**: [Filipino]
+
+    st.header("Educational Attainment")
+    st.subheader("Elementary School")
+st.write("""
+    - **School Name**: [Your Elementary School Name]
+    - **Duration**: [Start Year] – [End Year]
+""")
+
          
 st.header("My Interests")
 st.write("""
@@ -27,6 +35,9 @@ st.write("""
 """)
 
 st.header("Contact Me")
+st.write("""
+    If you'd like to get in touch with me, feel free to reach out via any of the following platforms:
+""")
 st.markdown("[Email Me](mailto:your-dumagtoycatherine29@gmail.com)")
 st.markdown("[Facebook](https://www.facebook.com/catherine.dumagtoy.1)")
 
