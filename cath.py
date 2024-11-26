@@ -27,9 +27,6 @@ st.write("""
 """)
 
 st.header("Contact Me")
-st.write("""
-    Feel free to reach out if you'd like to connect:
-""")
 st.markdown("[Email Me](mailto:your-dumagtoycatherine29@gmail.com)")
 st.markdown("[Facebook](https://www.facebook.com/catherine.dumagtoy.1)")
 
