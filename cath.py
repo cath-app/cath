@@ -46,5 +46,3 @@ st.write("""
 """)
 st.markdown("[Email Me](mailto:your-dumagtoycatherine29@gmail.com)")
 st.markdown("[Facebook](https://www.facebook.com/catherine.dumagtoy.1)")
-
-st.write("© [2024] [Catherine T. Dumagtoy]. All rights reserved.")
