@@ -24,12 +24,12 @@ st.write("""
 st.subheader("Elementary School")
 st.write("""  
     - **School Name**: [Surigao West Central Elementary School]
-    - **Duration**: [2013] – [2018] 
+    - **Duration**: [2013] - [2018] 
 st.subheader("High School")
 st.write("""
     - **School Name**: [Surigao City National High School]
-    - **Duration**: [2018] – [2024]
-    
+    - **Duration**: [2013] - [2018]
+         
 st.header("My Interests")
 st.write("""
     In addition to my professional work, I enjoy [Reading and Listening to music]. 
