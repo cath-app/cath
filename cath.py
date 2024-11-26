@@ -1,9 +1,7 @@
 import streamlit as st
 
-# Set the title of the page
 st.title("Student Biography: [Catherine T. Dumagtoy]")
 
-# Introduction Section
 st.header("About Me")
 st.image("cath.jpg", caption="This is me!", use_column_width=True)
 st.write("""
