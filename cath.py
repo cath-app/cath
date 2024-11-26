@@ -20,10 +20,14 @@ st.write("""
     st.header("Educational Attainment")
     st.subheader("Elementary School")
 st.write("""
-    - **School Name**: [Your Elementary School Name]
-    - **Duration**: [Start Year] – [End Year]
+    - **School Name**: [Surigao West Central Elementary School]
+    - **Duration**: [2013] – [2018]
 """)
-
+st.subheader("Middle School")
+st.write("""
+    - **School Name**: [Surigao City National High School]
+    - **Duration**: [2018] – [2024]
+""")
          
 st.header("My Interests")
 st.write("""
