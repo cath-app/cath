@@ -20,10 +20,10 @@ st.write("""
     - **Nationality**: [Filipino]
 
 st.header("Educational Attainment")
-st.subheader("Elementary School")
-st.write("""
-         - **School Name**: [Your Elementary School Name]
-         - **Duration**: [Start Year] – [End Year]
+st.subheader("High School")
+st.write("""  
+    - **School Name**: [Your High School Name]
+    - **Duration**: [Start Year] – [End Year] 
 st.subheader("High School")
 st.write("""
     - **School Name**: [Your High School Name]
