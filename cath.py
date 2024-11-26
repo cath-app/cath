@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title("Student Biography: Catherine T. Dumagtoy")
+st.title("My Biography: Catherine T. Dumagtoy")
 
 st.header("About Me")
 st.image("cath.jpg", caption="This is me!", use_column_width=True)
