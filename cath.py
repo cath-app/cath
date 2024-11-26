@@ -19,6 +19,16 @@ st.write("""
     - **Location**: [Surigao City, Philippines]
     - **Nationality**: [Filipino]
 
+st.header("Educational Attainment")
+st.subheader("Elementary School")
+st.write("""
+         - **School Name**: [Your Elementary School Name]
+         - **Duration**: [Start Year] – [End Year]
+st.subheader("High School")
+st.write("""
+    - **School Name**: [Your High School Name]
+    - **Duration**: [Start Year] – [End Year]
+    
 st.header("My Interests")
 st.write("""
     In addition to my professional work, I enjoy [Reading and Listening to music]. 
