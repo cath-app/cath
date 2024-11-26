@@ -26,10 +26,9 @@ st.write("""
     - [Sleeping]
 """)
 
-# Contact section
 st.header("Contact Me")
 st.write("""
-    If you'd like to get in touch with me, feel free to reach out via any of the following platforms:
+    Feel free to reach out if you'd like to connect:
 """)
 st.markdown("[Email Me](mailto:your-dumagtoycatherine29@gmail.com)")
 st.markdown("[Facebook](https://www.facebook.com/catherine.dumagtoy.1)")
